@@ -7,8 +7,8 @@ If you would like to install this program on your own calculator, please follow 
 
 If you are experiencing the "NONREAL ANSWERS" error message please go to [MODE] and change the REAL setting to a+bi.
 
-#MATHTOOL
+# MATHTOOL
 Simple-to-use math tools!
 
-#CHEMTOOL
+# CHEMTOOL
 Simple-to-use chemistry calculator, mainly intended for AP Chemistry
